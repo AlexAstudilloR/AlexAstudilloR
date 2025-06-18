@@ -9,8 +9,8 @@
 ## 🛠️ Tecnologías y herramientas
 
 - ⚙️ Lenguajes: **Python**, **JavaScript**, SQL  
-- 🧰 Frameworks: **Django**, **Django REST Framework**, **Vue 3**  
-- 🗄️ Bases de datos: **PostgreSQL**  
+- 🧰 Frameworks: **Django**, **Django REST Framework**, **Vue 3** , **Express**, **FastApi** 
+- 🗄️ Bases de datos: **PostgreSQL**, **SQlite** 
 - ⚙️ Librerías: **Pinia**, Vue Router, Axios  
 - 🐳 Herramientas: Git, GitHub, Postman, Docker (básico)
 
