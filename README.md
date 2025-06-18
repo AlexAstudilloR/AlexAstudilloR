@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alex Astudillo
 
-<!--
-**AlexAstudilloR/AlexAstudilloR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Software | Último semestre  
+💻 Apasionado por el desarrollo backend y las APIs REST  
+📍 Ecuador
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- ⚙️ Lenguajes: **Python**, **JavaScript**, SQL  
+- 🧰 Frameworks: **Django**, **Django REST Framework**, **Vue 3**  
+- 🗄️ Bases de datos: **PostgreSQL**  
+- ⚙️ Librerías: **Pinia**, Vue Router, Axios  
+- 🐳 Herramientas: Git, GitHub, Postman, Docker (básico)
+
+---
+
+## 📚 En lo que estoy trabajando
+
+- 🚀 Desarrollo de aplicaciones fullstack con Django y Vue  
+- 💡 Buenas prácticas de APIs REST y control de autenticación  
+- 📖 Mejorando conocimientos en testing, clean architecture y DevOps
+
+---
+
+## 🌟 Proyecto Destacado
+
+### 🎯 Sistema de Reservas de Canchas Deportivas
+
+> Aplicación fullstack para la gestión de reservas, usuarios y horarios.
+
+- Backend con **Django REST Framework**  
+- Frontend con **Vue 3 + Pinia + Vue Router**  
+- Base de datos en **PostgreSQL**  
+- Soporte para autenticación, creación y edición de reservas  
+- Consumo de API con Axios y SPA moderna  
+- 💻 Repositorio: [Reserva de canchas con DRF + Vue3](https://github.com/AlexAstudilloR/FutZone) 
+
+---
+
+## 🔗 Conecta conmigo
+
+- 💼 [LinkedIn ](www.linkedin.com/in/alex-enrique-astudillo-rodriguez-9a59572a1)
+- 📧 alex1234astu@gmail.com
+
+---
+
+> 🎯 _“Siempre estoy aprendiendo, construyendo y mejorando como desarrollador backend.”_
